@@ -1,0 +1,64 @@
+[*]
+[*] GTKWave Analyzer v3.3.58 (w)1999-2014 BSI
+[*] Mon Nov 28 01:58:14 2016
+[*]
+[dumpfile] "/v/filer4b/v38q001/mebbole/cs350c/final_project/test.vcd"
+[dumpfile_mtime] "Mon Nov 28 01:56:46 2016"
+[dumpfile_size] 6508
+[savefile] "/v/filer4b/v38q001/mebbole/cs350c/final_project/test1.gtkw"
+[timestart] 0
+[size] 1855 1056
+[pos] -1 -1
+*-11.000000 3550 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test.
+[treeopen] test.prediction.
+[sst_width] 223
+[signals_width] 198
+[sst_expanded] 1
+[sst_vpaned_height] 312
+@28
+test.clk
+test.prediction.current_pc_valid
+@22
+test.prediction.current_pc[15:0]
+@28
+test.prediction.result_valid
+@22
+test.prediction.result_pc[15:0]
+@28
+test.prediction.result
+@22
+test.prediction.hash_addr[3:0]
+test.prediction.result_hash_addr[3:0]
+@28
+test.prediction.buff_valid
+@22
+test.prediction.buff_next[31:0]
+@28
+test.prediction.wait_for_results.taken
+@22
+test.prediction.wait_for_results.next[31:0]
+test.prediction.Y_weight_dot[31:0]
+@28
+test.prediction.current_should_jump
+test.prediction.history[2:0]
+test.prediction.history_valid[2:0]
+@23
+[color] 7
+test.prediction.p0[7:0]
+[color] 7
+test.prediction.p1[7:0]
+[color] 7
+test.prediction.p2[7:0]
+[color] 7
+test.prediction.p3[7:0]
+[color] 7
+test.prediction.p4[7:0]
+[color] 7
+test.prediction.p5[7:0]
+[color] 7
+test.prediction.p6[7:0]
+[color] 7
+test.prediction.p7[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
